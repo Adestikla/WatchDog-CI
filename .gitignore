@@ -1,0 +1,15 @@
+# 1. 忽略 Python 虚拟环境（绝对不能传）
+.venv/
+venv/
+env/
+
+# 2. 忽略 PyCharm 的私人配置文件
+.idea/
+
+# 3. 忽略 Python 运行时产生的缓存垃圾
+__pycache__/
+*.pyc
+*.pyo
+
+# 4. 忽略可能产生的日志文件
+*.log
