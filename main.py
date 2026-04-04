@@ -8,7 +8,7 @@ app = Flask(__name__)
 # ⚙️ 终极配置区：你的“项目登记册”
 # ==========================================
 PROJECTS_CONFIG = {
-    # 你的 tg-bot 项目
+    # 服务器的项目
     "tg-bot": {  # 注意：这里的名字最好跟 GitHub 上的仓库名保持一致
         "path": "/user/XXXX",  # 你的绝对路径
         "script": "deploy.sh",  # 部署脚本名称
@@ -59,4 +59,4 @@ def github_webhook():
 
 if __name__ == '__main__':
     # 启动监听服务
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5050)
