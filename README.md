@@ -1,3 +1,4 @@
+[English](./README_EN.md) | [简体中文](./README.md)
 # WatchDog-CI 🚀 (极简 Webhook 自动化部署管家)
 欢迎大家使用此工具
 这是一个专为个人开发者和小型云服务器设计的**极轻量级 CI/CD 自动化部署插件**。
