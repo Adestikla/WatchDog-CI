@@ -46,6 +46,7 @@ PROJECTS_CONFIG = {
         "script": "deploy.sh",       # The name of the deployment script inside your business project
         "branch": "refs/heads/master" # The branch to monitor (newer GitHub repos usually use refs/heads/main)
     }
+    # Add more projects below using the same structure as needed...
 }
 
 ```

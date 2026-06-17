@@ -42,6 +42,7 @@ pip3 install -r requirements.txt
         "script": "deploy.sh",       # 业务项目里的部署脚本名称
         "branch": "refs/heads/master" # 监听的分支 (新版 GitHub 通常是 refs/heads/main)
     }
+    # 如有多项目集中管理需求，依此格式向下追加即可...
 }
 ```
 3. 配置你的业务项目 (极其关键)
