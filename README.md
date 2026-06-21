@@ -26,7 +26,7 @@
 
 ```bash
 # 1. 克隆本仓库到服务器
-git clone [https://github.com/你的用户名/WatchDog-CI.git](https://github.com/你的用户名/WatchDog-CI.git)
+git clone [https://github.com/你的用户名/WatchDog-CI.git](https://github.com/Adestikla/WatchDog-CI.git)
 
 # 2. 进入文件夹并安装依赖
 cd WatchDog-CI

@@ -27,7 +27,7 @@ Execute the following commands in your server's home directory (e.g., `/home/ubu
 
 ```bash
 # 1. Clone this repository to your server
-git clone https://github.com/YourUsername/WatchDog-CI.git
+git clone https://github.com/Adestikla/WatchDog-CI.git
 
 # 2. Enter the folder and install dependencies
 cd WatchDog-CI
